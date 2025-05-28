@@ -1,5 +1,5 @@
-# MEMORA
-MEMORA: A 3D multiplayer web game built with React, Three.js, Node.js, and Socket.IO. Players control robot animal avatars in a 3D dimension, collecting memory shards to escape. This is a portfolio project (MVP) showcasing web development, 3D rendering, and real-time multiplayer, deployed on AWS (Ubuntu).
+# BOM3D
+BOM3D: A 3D multiplayer web game built with React, Three.js, Node.js, and Socket.IO. Players control robot animal avatars in a 3D dimension, collecting candies to win. This is a portfolio project (MVP) showcasing web development, 3D rendering, and real-time multiplayer, deployed on AWS (Ubuntu).
 
 
 ## Week 1 Progress (May 27 – June 2, 2025)

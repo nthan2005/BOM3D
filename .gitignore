@@ -1,0 +1,28 @@
+Node.js
+
+node_modules/
+frontend/dist/
+npm-debug.log
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Vite
+.vite/
+dist/
+
+# Logs
+*.log
+/var/log/game.log*
+
+# Temp files
+*.swp
+*.bak
+/tmp/*
+
+# Data (optional, if sensitive)
+data/stats.json

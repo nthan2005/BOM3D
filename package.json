@@ -1,0 +1,12 @@
+{
+  "name": "memora",
+  "version": "1.0.0",
+  "description": "MEMORA: A 3D multiplayer web game built with React, Three.js, Node.js, and Socket.IO. Players control robot animal avatars in a 3D dimension, collecting memory shards to escape. This is a portfolio project (MVP) showcasing web development, 3D rendering, and real-time multiplayer, deployed on AWS (Ubuntu).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
